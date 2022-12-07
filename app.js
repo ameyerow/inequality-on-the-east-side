@@ -22,7 +22,6 @@ function bottomNavClickFoward() {
     bottomNavClick(1);
 }
 
-
 function bottomNavClickBack() {
     bottomNavClick(-1);
 }
